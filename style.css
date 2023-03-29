@@ -1,0 +1,67 @@
+h2{
+    border: 10px solid salmon;
+    width: 60px;
+
+
+}
+h3{
+    border: 10px solid slateblue;
+    padding: 1%;
+    width: 100px;
+}
+img{
+    margin-left: 250px;
+    width: 400px;
+    height: 300px;
+}
+body{
+    background-color: blanchedalmond;
+
+}
+button{
+    border: 20 px solid beige;
+    padding: 2px;
+    margin-left: 500px;
+}
+
+    a:link {
+        color: green;
+        background-color: transparent;
+        text-decoration: none;
+        border: 20px;
+        padding: 2px;
+        display: inline-block;
+
+      }
+      a:visited {
+        color: rgb(163, 3, 29);
+        background-color: transparent;
+        text-decoration: none;
+        border: 20px;
+        padding: 2px;
+        display: inline-block;
+        
+      }
+      a:hover {
+        color: rgb(38, 0, 255);
+        background-color: transparent;
+        text-decoration: underline;
+        border: 20px;
+        padding: 2px;
+        display: inline-block;
+      }
+      a:active {
+        color: rgb(255, 174, 0);
+        background-color: transparent;
+        text-decoration: underline;
+        border: 20px;
+        padding: 2px;
+        display: inline-block; 
+      
+}
+table{
+    border: 1px solid rgb(26, 9, 9);
+   
+
+
+}
